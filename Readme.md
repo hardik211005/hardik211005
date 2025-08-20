@@ -53,10 +53,17 @@
 </picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hardik211005/count.svg?"  />
+<img src="https://komarev.com/ghpvc/?username=Krish-Gupta24&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
+
+<br/>
+
+✨ Always excited about new opportunities and collaborations! Let's build something amazing together! ✨
+
+---
+
 </div>
+
